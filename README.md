@@ -3,7 +3,7 @@
 - 👀 I’m interested in becoming a full time coding machine
 
 - 🌱 I was learning React, Styled-Components, Firebase, git and git hub...
--     Now I'm learning NEXT.js, Typescript, Sanity, Tailwind CSS and I'm still and learning how to use git and git hub with vsCode.
+-     Now I'm learning NEXT.js, Typescript, Sanity, Tailwind CSS and I'm still and learning how to use git and git hub with Cmd Line.
 
 - 💞️ I’m looking to collaborate on anything that gets me real world coding exerience right now
 
